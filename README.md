@@ -3,11 +3,7 @@
 This is the first file in this repo.
 
 
-##Ipsum Below
+##Website Contents
 
-this is just a bit of text
-
-
-##some mor ipsum	
-
-ipsum ipsum
+1.
+2.
